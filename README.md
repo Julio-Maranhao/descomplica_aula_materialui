@@ -2,6 +2,9 @@
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
+## O que foi adicionado
+Um simples Modal de Login com botão no header que alterna entre Login e Logout
+
 ## Passo-a-passo para execução
 
 1. Clonar o repositório
